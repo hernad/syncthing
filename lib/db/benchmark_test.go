@@ -15,8 +15,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 var files, oneFile, firstHalf, secondHalf []protocol.FileInfo

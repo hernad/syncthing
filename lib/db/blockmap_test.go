@@ -9,7 +9,7 @@ package db
 import (
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/protocol"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
 

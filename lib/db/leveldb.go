@@ -13,8 +13,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 )

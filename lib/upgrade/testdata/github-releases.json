@@ -3,7 +3,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1102614",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1102614/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1102614/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.10.30",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.10.30",
     "id": 1102614,
     "tag_name": "v0.10.30",
     "target_commitish": "master",
@@ -62,7 +62,7 @@
         "download_count": 4,
         "created_at": "2015-03-29T08:44:23Z",
         "updated_at": "2015-03-29T08:44:23Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495964",
@@ -94,7 +94,7 @@
         "download_count": 10,
         "created_at": "2015-03-29T08:44:24Z",
         "updated_at": "2015-03-29T08:44:25Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495965",
@@ -126,7 +126,7 @@
         "download_count": 4,
         "created_at": "2015-03-29T08:44:26Z",
         "updated_at": "2015-03-29T08:44:30Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-dragonfly-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-dragonfly-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495967",
@@ -158,7 +158,7 @@
         "download_count": 2,
         "created_at": "2015-03-29T08:44:32Z",
         "updated_at": "2015-03-29T08:44:41Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-dragonfly-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-dragonfly-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495968",
@@ -190,7 +190,7 @@
         "download_count": 8,
         "created_at": "2015-03-29T08:44:42Z",
         "updated_at": "2015-03-29T08:44:47Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-freebsd-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-freebsd-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495969",
@@ -222,7 +222,7 @@
         "download_count": 145,
         "created_at": "2015-03-29T08:44:48Z",
         "updated_at": "2015-03-29T08:44:54Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-freebsd-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-freebsd-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495970",
@@ -254,7 +254,7 @@
         "download_count": 1089,
         "created_at": "2015-03-29T08:44:55Z",
         "updated_at": "2015-03-29T08:45:00Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-linux-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-linux-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495971",
@@ -286,7 +286,7 @@
         "download_count": 4654,
         "created_at": "2015-03-29T08:45:02Z",
         "updated_at": "2015-03-29T08:45:07Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-linux-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-linux-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495972",
@@ -318,7 +318,7 @@
         "download_count": 1167,
         "created_at": "2015-03-29T08:45:08Z",
         "updated_at": "2015-03-29T08:45:14Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-linux-arm-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-linux-arm-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495973",
@@ -350,7 +350,7 @@
         "download_count": 29,
         "created_at": "2015-03-29T08:45:15Z",
         "updated_at": "2015-03-29T08:45:20Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-macosx-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-macosx-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495974",
@@ -382,7 +382,7 @@
         "download_count": 972,
         "created_at": "2015-03-29T08:45:22Z",
         "updated_at": "2015-03-29T08:45:27Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-macosx-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-macosx-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495975",
@@ -414,7 +414,7 @@
         "download_count": 1,
         "created_at": "2015-03-29T08:45:28Z",
         "updated_at": "2015-03-29T08:45:34Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-netbsd-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-netbsd-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495976",
@@ -446,7 +446,7 @@
         "download_count": 1,
         "created_at": "2015-03-29T08:45:36Z",
         "updated_at": "2015-03-29T08:45:40Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-netbsd-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-netbsd-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495977",
@@ -478,7 +478,7 @@
         "download_count": 3,
         "created_at": "2015-03-29T08:45:41Z",
         "updated_at": "2015-03-29T08:45:47Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-openbsd-386-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-openbsd-386-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495978",
@@ -510,7 +510,7 @@
         "download_count": 3,
         "created_at": "2015-03-29T08:45:48Z",
         "updated_at": "2015-03-29T08:45:54Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-openbsd-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-openbsd-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495979",
@@ -542,7 +542,7 @@
         "download_count": 6,
         "created_at": "2015-03-29T08:45:55Z",
         "updated_at": "2015-03-29T08:46:00Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-solaris-amd64-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-solaris-amd64-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495980",
@@ -574,7 +574,7 @@
         "download_count": 4,
         "created_at": "2015-03-29T08:46:02Z",
         "updated_at": "2015-03-29T08:46:07Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-source-v0.10.30.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-source-v0.10.30.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495981",
@@ -606,7 +606,7 @@
         "download_count": 765,
         "created_at": "2015-03-29T08:46:08Z",
         "updated_at": "2015-03-29T08:46:14Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-windows-386-v0.10.30.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-windows-386-v0.10.30.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/495982",
@@ -638,7 +638,7 @@
         "download_count": 2995,
         "created_at": "2015-03-29T08:46:15Z",
         "updated_at": "2015-03-29T08:46:20Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.30/syncthing-windows-amd64-v0.10.30.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.30/syncthing-windows-amd64-v0.10.30.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.10.30",
@@ -649,7 +649,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1077409",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1077409/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1077409/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.10.29",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.10.29",
     "id": 1077409,
     "tag_name": "v0.10.29",
     "target_commitish": "master",
@@ -708,7 +708,7 @@
         "download_count": 38,
         "created_at": "2015-03-22T14:21:27Z",
         "updated_at": "2015-03-22T14:21:27Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484556",
@@ -740,7 +740,7 @@
         "download_count": 43,
         "created_at": "2015-03-22T14:21:29Z",
         "updated_at": "2015-03-22T14:21:29Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484557",
@@ -772,7 +772,7 @@
         "download_count": 38,
         "created_at": "2015-03-22T14:21:31Z",
         "updated_at": "2015-03-22T14:21:36Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-dragonfly-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-dragonfly-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484558",
@@ -804,7 +804,7 @@
         "download_count": 37,
         "created_at": "2015-03-22T14:21:37Z",
         "updated_at": "2015-03-22T14:21:42Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-dragonfly-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-dragonfly-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484559",
@@ -836,7 +836,7 @@
         "download_count": 27,
         "created_at": "2015-03-22T14:21:44Z",
         "updated_at": "2015-03-22T14:21:49Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-freebsd-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-freebsd-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484560",
@@ -868,7 +868,7 @@
         "download_count": 590,
         "created_at": "2015-03-22T14:21:50Z",
         "updated_at": "2015-03-22T14:21:56Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-freebsd-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-freebsd-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484561",
@@ -900,7 +900,7 @@
         "download_count": 5976,
         "created_at": "2015-03-22T14:21:57Z",
         "updated_at": "2015-03-22T14:22:02Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-linux-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-linux-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484562",
@@ -932,7 +932,7 @@
         "download_count": 25876,
         "created_at": "2015-03-22T14:22:04Z",
         "updated_at": "2015-03-22T14:22:10Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-linux-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-linux-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484563",
@@ -964,7 +964,7 @@
         "download_count": 5390,
         "created_at": "2015-03-22T14:22:11Z",
         "updated_at": "2015-03-22T14:22:17Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-linux-arm-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-linux-arm-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484564",
@@ -996,7 +996,7 @@
         "download_count": 192,
         "created_at": "2015-03-22T14:22:18Z",
         "updated_at": "2015-03-22T14:22:24Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-macosx-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-macosx-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484565",
@@ -1028,7 +1028,7 @@
         "download_count": 3126,
         "created_at": "2015-03-22T14:22:25Z",
         "updated_at": "2015-03-22T14:22:31Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-macosx-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-macosx-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484567",
@@ -1060,7 +1060,7 @@
         "download_count": 11,
         "created_at": "2015-03-22T14:22:32Z",
         "updated_at": "2015-03-22T14:22:36Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-netbsd-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-netbsd-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484568",
@@ -1092,7 +1092,7 @@
         "download_count": 21,
         "created_at": "2015-03-22T14:22:38Z",
         "updated_at": "2015-03-22T14:22:42Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-netbsd-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-netbsd-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484569",
@@ -1124,7 +1124,7 @@
         "download_count": 19,
         "created_at": "2015-03-22T14:22:43Z",
         "updated_at": "2015-03-22T14:22:51Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-openbsd-386-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-openbsd-386-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484571",
@@ -1156,7 +1156,7 @@
         "download_count": 19,
         "created_at": "2015-03-22T14:22:52Z",
         "updated_at": "2015-03-22T14:22:57Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-openbsd-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-openbsd-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484572",
@@ -1188,7 +1188,7 @@
         "download_count": 24,
         "created_at": "2015-03-22T14:22:58Z",
         "updated_at": "2015-03-22T14:23:03Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-solaris-amd64-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-solaris-amd64-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484573",
@@ -1220,7 +1220,7 @@
         "download_count": 35,
         "created_at": "2015-03-22T14:23:05Z",
         "updated_at": "2015-03-22T14:23:09Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-source-v0.10.29.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-source-v0.10.29.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484574",
@@ -1252,7 +1252,7 @@
         "download_count": 4382,
         "created_at": "2015-03-22T14:23:10Z",
         "updated_at": "2015-03-22T14:23:14Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-windows-386-v0.10.29.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-windows-386-v0.10.29.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484575",
@@ -1284,7 +1284,7 @@
         "download_count": 10718,
         "created_at": "2015-03-22T14:23:16Z",
         "updated_at": "2015-03-22T14:23:20Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.29/syncthing-windows-amd64-v0.10.29.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.29/syncthing-windows-amd64-v0.10.29.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.10.29",
@@ -1295,7 +1295,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1077111",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1077111/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1077111/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.11.0-beta0",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.11.0-beta0",
     "id": 1077111,
     "tag_name": "v0.11.0-beta0",
     "target_commitish": "master",
@@ -1354,7 +1354,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:00Z",
         "updated_at": "2015-03-22T10:46:01Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484364",
@@ -1386,7 +1386,7 @@
         "download_count": 1,
         "created_at": "2015-03-22T10:46:02Z",
         "updated_at": "2015-03-22T10:46:03Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484365",
@@ -1418,7 +1418,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:04Z",
         "updated_at": "2015-03-22T10:46:09Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-dragonfly-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-dragonfly-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484366",
@@ -1450,7 +1450,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:11Z",
         "updated_at": "2015-03-22T10:46:16Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-dragonfly-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-dragonfly-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484367",
@@ -1482,7 +1482,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:18Z",
         "updated_at": "2015-03-22T10:46:23Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-freebsd-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-freebsd-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484368",
@@ -1514,7 +1514,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:24Z",
         "updated_at": "2015-03-22T10:46:29Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-freebsd-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-freebsd-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484369",
@@ -1546,7 +1546,7 @@
         "download_count": 8,
         "created_at": "2015-03-22T10:46:31Z",
         "updated_at": "2015-03-22T10:46:35Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484370",
@@ -1578,7 +1578,7 @@
         "download_count": 24,
         "created_at": "2015-03-22T10:46:36Z",
         "updated_at": "2015-03-22T10:46:40Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484371",
@@ -1610,7 +1610,7 @@
         "download_count": 5,
         "created_at": "2015-03-22T10:46:42Z",
         "updated_at": "2015-03-22T10:46:46Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-arm-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-linux-arm-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484372",
@@ -1642,7 +1642,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:47Z",
         "updated_at": "2015-03-22T10:46:51Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-macosx-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-macosx-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484373",
@@ -1674,7 +1674,7 @@
         "download_count": 1,
         "created_at": "2015-03-22T10:46:53Z",
         "updated_at": "2015-03-22T10:46:58Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-macosx-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-macosx-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484374",
@@ -1706,7 +1706,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:46:59Z",
         "updated_at": "2015-03-22T10:47:03Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-netbsd-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-netbsd-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484375",
@@ -1738,7 +1738,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:47:04Z",
         "updated_at": "2015-03-22T10:47:08Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-netbsd-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-netbsd-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484376",
@@ -1770,7 +1770,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:47:10Z",
         "updated_at": "2015-03-22T10:47:13Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-openbsd-386-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-openbsd-386-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484377",
@@ -1802,7 +1802,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:47:15Z",
         "updated_at": "2015-03-22T10:47:20Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-openbsd-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-openbsd-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484378",
@@ -1834,7 +1834,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:47:21Z",
         "updated_at": "2015-03-22T10:47:26Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-solaris-amd64-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-solaris-amd64-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484379",
@@ -1866,7 +1866,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:47:28Z",
         "updated_at": "2015-03-22T10:47:33Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-source-v0.11.0-beta0.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-source-v0.11.0-beta0.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484380",
@@ -1898,7 +1898,7 @@
         "download_count": 2,
         "created_at": "2015-03-22T10:47:34Z",
         "updated_at": "2015-03-22T10:47:39Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-windows-386-v0.11.0-beta0.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-windows-386-v0.11.0-beta0.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484381",
@@ -1930,7 +1930,7 @@
         "download_count": 15,
         "created_at": "2015-03-22T10:47:40Z",
         "updated_at": "2015-03-22T10:47:45Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.11.0-beta0/syncthing-windows-amd64-v0.11.0-beta0.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.11.0-beta0/syncthing-windows-amd64-v0.11.0-beta0.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.11.0-beta0",
@@ -1941,7 +1941,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1077088",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1077088/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1077088/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.10.28",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.10.28",
     "id": 1077088,
     "tag_name": "v0.10.28",
     "target_commitish": "master",
@@ -2000,7 +2000,7 @@
         "download_count": 5,
         "created_at": "2015-03-22T10:16:07Z",
         "updated_at": "2015-03-22T10:16:08Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484328",
@@ -2032,7 +2032,7 @@
         "download_count": 8,
         "created_at": "2015-03-22T10:16:09Z",
         "updated_at": "2015-03-22T10:16:09Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484329",
@@ -2064,7 +2064,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:16:11Z",
         "updated_at": "2015-03-22T10:16:15Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-dragonfly-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-dragonfly-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484330",
@@ -2096,7 +2096,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:16:16Z",
         "updated_at": "2015-03-22T10:16:22Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-dragonfly-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-dragonfly-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484331",
@@ -2128,7 +2128,7 @@
         "download_count": 4,
         "created_at": "2015-03-22T10:16:23Z",
         "updated_at": "2015-03-22T10:16:28Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-freebsd-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-freebsd-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484332",
@@ -2160,7 +2160,7 @@
         "download_count": 87,
         "created_at": "2015-03-22T10:16:30Z",
         "updated_at": "2015-03-22T10:16:35Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-freebsd-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-freebsd-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484333",
@@ -2192,7 +2192,7 @@
         "download_count": 470,
         "created_at": "2015-03-22T10:16:37Z",
         "updated_at": "2015-03-22T10:16:42Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-linux-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-linux-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484334",
@@ -2224,7 +2224,7 @@
         "download_count": 1999,
         "created_at": "2015-03-22T10:16:43Z",
         "updated_at": "2015-03-22T10:16:47Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-linux-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-linux-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484335",
@@ -2256,7 +2256,7 @@
         "download_count": 515,
         "created_at": "2015-03-22T10:16:49Z",
         "updated_at": "2015-03-22T10:16:54Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-linux-arm-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-linux-arm-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484336",
@@ -2288,7 +2288,7 @@
         "download_count": 14,
         "created_at": "2015-03-22T10:16:55Z",
         "updated_at": "2015-03-22T10:16:59Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-macosx-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-macosx-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484337",
@@ -2320,7 +2320,7 @@
         "download_count": 540,
         "created_at": "2015-03-22T10:17:00Z",
         "updated_at": "2015-03-22T10:17:04Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-macosx-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-macosx-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484338",
@@ -2352,7 +2352,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:17:06Z",
         "updated_at": "2015-03-22T10:17:10Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-netbsd-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-netbsd-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484339",
@@ -2384,7 +2384,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:17:11Z",
         "updated_at": "2015-03-22T10:17:16Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-netbsd-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-netbsd-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484340",
@@ -2416,7 +2416,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:17:18Z",
         "updated_at": "2015-03-22T10:17:23Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-openbsd-386-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-openbsd-386-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484341",
@@ -2448,7 +2448,7 @@
         "download_count": 0,
         "created_at": "2015-03-22T10:17:25Z",
         "updated_at": "2015-03-22T10:17:28Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-openbsd-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-openbsd-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484342",
@@ -2480,7 +2480,7 @@
         "download_count": 4,
         "created_at": "2015-03-22T10:17:30Z",
         "updated_at": "2015-03-22T10:17:35Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-solaris-amd64-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-solaris-amd64-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484343",
@@ -2512,7 +2512,7 @@
         "download_count": 7,
         "created_at": "2015-03-22T10:17:36Z",
         "updated_at": "2015-03-22T10:17:39Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-source-v0.10.28.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-source-v0.10.28.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484344",
@@ -2544,7 +2544,7 @@
         "download_count": 384,
         "created_at": "2015-03-22T10:17:41Z",
         "updated_at": "2015-03-22T10:17:45Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-windows-386-v0.10.28.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-windows-386-v0.10.28.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/484345",
@@ -2576,7 +2576,7 @@
         "download_count": 1300,
         "created_at": "2015-03-22T10:17:46Z",
         "updated_at": "2015-03-22T10:17:51Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.28/syncthing-windows-amd64-v0.10.28.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.28/syncthing-windows-amd64-v0.10.28.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.10.28",
@@ -2587,7 +2587,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1052117",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1052117/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1052117/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.10.27",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.10.27",
     "id": 1052117,
     "tag_name": "v0.10.27",
     "target_commitish": "master",
@@ -2646,7 +2646,7 @@
         "download_count": 67,
         "created_at": "2015-03-15T16:15:43Z",
         "updated_at": "2015-03-15T16:15:44Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472411",
@@ -2678,7 +2678,7 @@
         "download_count": 65,
         "created_at": "2015-03-15T16:15:45Z",
         "updated_at": "2015-03-15T16:15:46Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472412",
@@ -2710,7 +2710,7 @@
         "download_count": 33,
         "created_at": "2015-03-15T16:15:47Z",
         "updated_at": "2015-03-15T16:15:51Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-dragonfly-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-dragonfly-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472413",
@@ -2742,7 +2742,7 @@
         "download_count": 42,
         "created_at": "2015-03-15T16:15:52Z",
         "updated_at": "2015-03-15T16:15:58Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-dragonfly-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-dragonfly-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472414",
@@ -2774,7 +2774,7 @@
         "download_count": 32,
         "created_at": "2015-03-15T16:15:59Z",
         "updated_at": "2015-03-15T16:16:05Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-freebsd-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-freebsd-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472416",
@@ -2806,7 +2806,7 @@
         "download_count": 729,
         "created_at": "2015-03-15T16:16:06Z",
         "updated_at": "2015-03-15T16:16:11Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-freebsd-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-freebsd-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472417",
@@ -2838,7 +2838,7 @@
         "download_count": 5562,
         "created_at": "2015-03-15T16:16:12Z",
         "updated_at": "2015-03-15T16:16:18Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-linux-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-linux-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472418",
@@ -2870,7 +2870,7 @@
         "download_count": 37340,
         "created_at": "2015-03-15T16:16:19Z",
         "updated_at": "2015-03-15T16:16:23Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-linux-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-linux-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472419",
@@ -2902,7 +2902,7 @@
         "download_count": 6590,
         "created_at": "2015-03-15T16:16:25Z",
         "updated_at": "2015-03-15T16:16:31Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-linux-arm-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-linux-arm-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472421",
@@ -2934,7 +2934,7 @@
         "download_count": 133,
         "created_at": "2015-03-15T16:16:33Z",
         "updated_at": "2015-03-15T16:16:37Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-macosx-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-macosx-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472422",
@@ -2966,7 +2966,7 @@
         "download_count": 2890,
         "created_at": "2015-03-15T16:16:39Z",
         "updated_at": "2015-03-15T16:16:44Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-macosx-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-macosx-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472423",
@@ -2998,7 +2998,7 @@
         "download_count": 17,
         "created_at": "2015-03-15T16:16:46Z",
         "updated_at": "2015-03-15T16:16:50Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-netbsd-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-netbsd-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472424",
@@ -3030,7 +3030,7 @@
         "download_count": 11,
         "created_at": "2015-03-15T16:16:51Z",
         "updated_at": "2015-03-15T16:16:57Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-netbsd-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-netbsd-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472425",
@@ -3062,7 +3062,7 @@
         "download_count": 14,
         "created_at": "2015-03-15T16:16:58Z",
         "updated_at": "2015-03-15T16:17:03Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-openbsd-386-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-openbsd-386-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472436",
@@ -3094,7 +3094,7 @@
         "download_count": 15,
         "created_at": "2015-03-15T16:20:13Z",
         "updated_at": "2015-03-15T16:21:01Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-openbsd-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-openbsd-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472429",
@@ -3126,7 +3126,7 @@
         "download_count": 16,
         "created_at": "2015-03-15T16:17:13Z",
         "updated_at": "2015-03-15T16:17:19Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-solaris-amd64-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-solaris-amd64-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472430",
@@ -3158,7 +3158,7 @@
         "download_count": 35,
         "created_at": "2015-03-15T16:17:20Z",
         "updated_at": "2015-03-15T16:17:27Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-source-v0.10.27.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-source-v0.10.27.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472432",
@@ -3190,7 +3190,7 @@
         "download_count": 2773,
         "created_at": "2015-03-15T16:17:29Z",
         "updated_at": "2015-03-15T16:17:34Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-windows-386-v0.10.27.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-windows-386-v0.10.27.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/472433",
@@ -3222,7 +3222,7 @@
         "download_count": 8922,
         "created_at": "2015-03-15T16:17:36Z",
         "updated_at": "2015-03-15T16:17:40Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.27/syncthing-windows-amd64-v0.10.27.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.27/syncthing-windows-amd64-v0.10.27.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.10.27",
@@ -3233,7 +3233,7 @@
     "url": "https://api.github.com/repos/syncthing/syncthing/releases/1039895",
     "assets_url": "https://api.github.com/repos/syncthing/syncthing/releases/1039895/assets",
     "upload_url": "https://uploads.github.com/repos/syncthing/syncthing/releases/1039895/assets{?name}",
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v0.10.26",
+    "html_url": "https://github.com/hernad/syncthing/releases/tag/v0.10.26",
     "id": 1039895,
     "tag_name": "v0.10.26",
     "target_commitish": "master",
@@ -3292,7 +3292,7 @@
         "download_count": 28,
         "created_at": "2015-03-11T20:24:42Z",
         "updated_at": "2015-03-11T20:24:42Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/md5sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/md5sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465499",
@@ -3324,7 +3324,7 @@
         "download_count": 53,
         "created_at": "2015-03-11T20:24:44Z",
         "updated_at": "2015-03-11T20:24:44Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/sha1sum.txt.asc"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/sha1sum.txt.asc"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465500",
@@ -3356,7 +3356,7 @@
         "download_count": 16,
         "created_at": "2015-03-11T20:24:46Z",
         "updated_at": "2015-03-11T20:24:51Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-dragonfly-386-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-dragonfly-386-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465501",
@@ -3388,7 +3388,7 @@
         "download_count": 17,
         "created_at": "2015-03-11T20:24:53Z",
         "updated_at": "2015-03-11T20:24:58Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-dragonfly-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-dragonfly-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465502",
@@ -3420,7 +3420,7 @@
         "download_count": 19,
         "created_at": "2015-03-11T20:24:59Z",
         "updated_at": "2015-03-11T20:25:04Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-freebsd-386-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-freebsd-386-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465503",
@@ -3452,7 +3452,7 @@
         "download_count": 505,
         "created_at": "2015-03-11T20:25:05Z",
         "updated_at": "2015-03-11T20:25:10Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-freebsd-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-freebsd-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465504",
@@ -3484,7 +3484,7 @@
         "download_count": 3461,
         "created_at": "2015-03-11T20:25:11Z",
         "updated_at": "2015-03-11T20:25:15Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-linux-386-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-linux-386-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465505",
@@ -3516,7 +3516,7 @@
         "download_count": 16418,
         "created_at": "2015-03-11T20:25:17Z",
         "updated_at": "2015-03-11T20:25:22Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-linux-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-linux-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465506",
@@ -3548,7 +3548,7 @@
         "download_count": 4161,
         "created_at": "2015-03-11T20:25:23Z",
         "updated_at": "2015-03-11T20:25:27Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-linux-arm-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-linux-arm-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465507",
@@ -3580,7 +3580,7 @@
         "download_count": 2065,
         "created_at": "2015-03-11T20:25:29Z",
         "updated_at": "2015-03-11T20:25:34Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-macosx-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-macosx-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465508",
@@ -3612,7 +3612,7 @@
         "download_count": 9,
         "created_at": "2015-03-11T20:25:35Z",
         "updated_at": "2015-03-11T20:25:39Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-netbsd-386-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-netbsd-386-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465509",
@@ -3644,7 +3644,7 @@
         "download_count": 6,
         "created_at": "2015-03-11T20:25:41Z",
         "updated_at": "2015-03-11T20:25:46Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-netbsd-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-netbsd-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465510",
@@ -3676,7 +3676,7 @@
         "download_count": 11,
         "created_at": "2015-03-11T20:25:48Z",
         "updated_at": "2015-03-11T20:25:52Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-openbsd-386-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-openbsd-386-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465511",
@@ -3708,7 +3708,7 @@
         "download_count": 7,
         "created_at": "2015-03-11T20:25:53Z",
         "updated_at": "2015-03-11T20:25:59Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-openbsd-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-openbsd-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465512",
@@ -3740,7 +3740,7 @@
         "download_count": 10,
         "created_at": "2015-03-11T20:26:01Z",
         "updated_at": "2015-03-11T20:26:06Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-solaris-amd64-v0.10.26.tar.gz"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-solaris-amd64-v0.10.26.tar.gz"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465513",
@@ -3772,7 +3772,7 @@
         "download_count": 1694,
         "created_at": "2015-03-11T20:26:08Z",
         "updated_at": "2015-03-11T20:26:12Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-windows-386-v0.10.26.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-windows-386-v0.10.26.zip"
       },
       {
         "url": "https://api.github.com/repos/syncthing/syncthing/releases/assets/465514",
@@ -3804,7 +3804,7 @@
         "download_count": 6093,
         "created_at": "2015-03-11T20:26:14Z",
         "updated_at": "2015-03-11T20:26:19Z",
-        "browser_download_url": "https://github.com/syncthing/syncthing/releases/download/v0.10.26/syncthing-windows-amd64-v0.10.26.zip"
+        "browser_download_url": "https://github.com/hernad/syncthing/releases/download/v0.10.26/syncthing-windows-amd64-v0.10.26.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/v0.10.26",

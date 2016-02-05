@@ -245,7 +245,7 @@ $ ssh \-L 9090:127.0.0.1:8384 user@othercomputer.example.com
 will log you into othercomputer.example.com, and present the \fIremote\fP Syncthing
 GUI on \fI\%http://localhost:9090\fP on your \fIlocal\fP computer. You should not open more
 than one Syncthing GUI in a single browser due to conflicting X\-CSRFTokens. Any
-modification will be rejected. See \fI\%issue #720\fP <\fBhttps://github.com/syncthing/syncthing/issues/720\fP> to work around this limitation.
+modification will be rejected. See \fI\%issue #720\fP <\fBhttps://github.com/hernad/syncthing/issues/720\fP> to work around this limitation.
 .sp
 The CSRF tokens are stored using cookies. Therefore, if you get the message
 \fBSyncthing seems to be experiencing a problem processing your request\fP, you
@@ -279,7 +279,7 @@ If \fBcurl\fP or \fBwget\fP works with normal HTTPS sites, then so should Syncth
 .SS Where do I find the latest release?
 .sp
 We release new versions through GitHub. The latest release is always found \fI\%on
-the release page\fP <\fBhttps://github.com/syncthing/syncthing/releases/latest\fP>\&.
+the release page\fP <\fBhttps://github.com/hernad/syncthing/releases/latest\fP>\&.
 Unfortunately GitHub does not provide a single URL to automatically download the
 latest version. We suggest to use the GitHub API at
 \fI\%https://api.github.com/repos/syncthing/syncthing/releases/latest\fP and parsing the

@@ -12,8 +12,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/dialer"
-	"github.com/syncthing/syncthing/lib/model"
+	"github.com/hernad/syncthing/lib/dialer"
+	"github.com/hernad/syncthing/lib/model"
 )
 
 func init() {

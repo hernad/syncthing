@@ -181,14 +181,14 @@ Assume two nodes, Alice and Bob, where Alice has 100 files to share, but
 Bob ignores 25 of these. From Alice\(aqs point of view Bob will become
 about 75% in sync (the actual number depends on the sizes of the
 individual files) and remain in "Syncing" state even though it is in
-fact not syncing anything (\fI\%issue #623\fP <\fBhttps://github.com/syncthing/syncthing/issues/623\fP>). From Bob\(aqs point of view, it\(aqs
+fact not syncing anything (\fI\%issue #623\fP <\fBhttps://github.com/hernad/syncthing/issues/623\fP>). From Bob\(aqs point of view, it\(aqs
 100% up to date but will show fewer files in both the local and global
 view.
 .sp
 If Bob adds files that have already been synced to the ignore list, they
 will remain in the "global" view but disappear from the "local" view.
 The end result is more files in the global repository than in the local,
-but still 100% in sync (\fI\%issue #624\fP <\fBhttps://github.com/syncthing/syncthing/issues/624\fP>). From Alice\(aqs point of view, Bob
+but still 100% in sync (\fI\%issue #624\fP <\fBhttps://github.com/hernad/syncthing/issues/624\fP>). From Alice\(aqs point of view, Bob
 will remain 100% in sync until the next reconnect, because Bob has
 already announced that he has the files that are now suddenly ignored.
 .SH AUTHOR

@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/osutil"
 )
 
 func init() {

@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 func TestCacheUnique(t *testing.T) {

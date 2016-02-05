@@ -6,7 +6,7 @@
 
 package config
 
-import "github.com/syncthing/syncthing/lib/protocol"
+import "github.com/hernad/syncthing/lib/protocol"
 
 type DeviceConfiguration struct {
 	DeviceID    protocol.DeviceID    `xml:"id,attr" json:"deviceID"`

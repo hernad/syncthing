@@ -11,7 +11,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 type roFolder struct {

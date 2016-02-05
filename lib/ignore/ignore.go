@@ -18,8 +18,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/fnmatch"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/fnmatch"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 type Pattern struct {

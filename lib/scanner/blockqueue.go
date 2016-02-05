@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 // The parallell hasher reads FileInfo structures from the inbox, hashes the

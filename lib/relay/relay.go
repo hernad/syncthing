@@ -13,11 +13,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/relay/client"
-	"github.com/syncthing/syncthing/lib/relay/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/relay/client"
+	"github.com/hernad/syncthing/lib/relay/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 
 	"github.com/thejerf/suture"
 )

@@ -14,9 +14,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/iterator"

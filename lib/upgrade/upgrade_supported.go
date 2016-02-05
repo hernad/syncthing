@@ -26,8 +26,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/dialer"
-	"github.com/syncthing/syncthing/lib/signature"
+	"github.com/hernad/syncthing/lib/dialer"
+	"github.com/hernad/syncthing/lib/signature"
 )
 
 const DisabledByCompilation = false

@@ -14,8 +14,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 var remoteDevice0, remoteDevice1 protocol.DeviceID

@@ -12,9 +12,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/relay/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/relay/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 type dynamicClient struct {

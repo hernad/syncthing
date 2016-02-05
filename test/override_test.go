@@ -16,10 +16,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/rc"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/rc"
 )
 
 func TestOverride(t *testing.T) {

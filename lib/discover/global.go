@@ -18,9 +18,9 @@ import (
 	stdsync "sync"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/dialer"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/dialer"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 type globalClient struct {

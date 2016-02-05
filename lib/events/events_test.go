@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/events"
 )
 
 const timeout = 100 * time.Millisecond

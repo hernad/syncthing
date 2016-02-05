@@ -25,8 +25,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/dialer"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/dialer"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 // An IGD is a UPnP InternetGatewayDevice.

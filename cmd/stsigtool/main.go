@@ -12,8 +12,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/syncthing/syncthing/lib/signature"
-	"github.com/syncthing/syncthing/lib/upgrade"
+	"github.com/hernad/syncthing/lib/signature"
+	"github.com/hernad/syncthing/lib/upgrade"
 )
 
 func main() {

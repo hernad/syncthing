@@ -15,9 +15,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/discover"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/discover"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 var timeout = 5 * time.Second

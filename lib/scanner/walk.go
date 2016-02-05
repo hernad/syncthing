@@ -17,11 +17,11 @@ import (
 	"unicode/utf8"
 
 	"github.com/rcrowley/go-metrics"
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/symlinks"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/symlinks"
 	"golang.org/x/text/unicode/norm"
 )
 

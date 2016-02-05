@@ -10,8 +10,8 @@ import (
 	"container/heap"
 	"fmt"
 
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/protocol"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

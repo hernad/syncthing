@@ -138,8 +138,8 @@ case "${1:-default}" in
 	docker-all)
 		img=${DOCKERIMG:-syncthing/build:latest}
 		docker run --rm -h syncthing-builder -u $(id -u) -t \
-			-v $(pwd):/go/src/github.com/syncthing/syncthing \
-			-w /go/src/github.com/syncthing/syncthing \
+			-v $(pwd):/go/src/github.com/hernad/syncthing \
+			-w /go/src/github.com/hernad/syncthing \
 			-e "STTRACE=$STTRACE" \
 			"$img" \
 			sh -c './build.sh clean \
@@ -151,8 +151,8 @@ case "${1:-default}" in
 	docker-test)
 		img=${DOCKERIMG:-syncthing/build:latest}
 		docker run --rm -h syncthing-builder -u $(id -u) -t \
-			-v $(pwd):/go/src/github.com/syncthing/syncthing \
-			-w /go/src/github.com/syncthing/syncthing \
+			-v $(pwd):/go/src/github.com/hernad/syncthing \
+			-w /go/src/github.com/hernad/syncthing \
 			-e "STTRACE=$STTRACE" \
 			"$img" \
 			sh -euxc './build.sh clean \
@@ -166,8 +166,8 @@ case "${1:-default}" in
 	docker-lint)
 		img=${DOCKERIMG:-syncthing/build:latest}
 		docker run --rm -h syncthing-builder -u $(id -u) -t \
-			-v $(pwd):/go/src/github.com/syncthing/syncthing \
-			-w /go/src/github.com/syncthing/syncthing \
+			-v $(pwd):/go/src/github.com/hernad/syncthing \
+			-w /go/src/github.com/hernad/syncthing \
 			-e "STTRACE=$STTRACE" \
 			"$img" \
 			sh -euxc 'go run build.go lint'
@@ -177,8 +177,8 @@ case "${1:-default}" in
 	docker-vet)
 		img=${DOCKERIMG:-syncthing/build:latest}
 		docker run --rm -h syncthing-builder -u $(id -u) -t \
-			-v $(pwd):/go/src/github.com/syncthing/syncthing \
-			-w /go/src/github.com/syncthing/syncthing \
+			-v $(pwd):/go/src/github.com/hernad/syncthing \
+			-w /go/src/github.com/hernad/syncthing \
 			-e "STTRACE=$STTRACE" \
 			"$img" \
 			sh -euxc 'go run build.go vet'

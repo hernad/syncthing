@@ -8,7 +8,7 @@ package db
 
 import (
 	"github.com/calmh/xdr"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 type FileInfoTruncated struct {

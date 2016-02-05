@@ -9,10 +9,10 @@ package config
 import (
 	"os"
 
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 // The Committer interface is implemented by objects that need to know about

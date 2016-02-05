@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/logger"
+	"github.com/hernad/syncthing/lib/logger"
 )
 
 var (

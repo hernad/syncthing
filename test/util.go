@@ -25,9 +25,9 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/rc"
-	"github.com/syncthing/syncthing/lib/symlinks"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/rc"
+	"github.com/hernad/syncthing/lib/symlinks"
 )
 
 func init() {
@@ -174,7 +174,7 @@ func alterFiles(dir string) error {
 			if runtime.GOOS == "darwin" || runtime.GOOS == "windows" {
 				// Syncthing is currently broken for case-only renames on case-
 				// insensitive platforms.
-				// https://github.com/syncthing/syncthing/issues/1787
+				// https://github.com/hernad/syncthing/issues/1787
 				return nil
 			}
 

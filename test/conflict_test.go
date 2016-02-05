@@ -16,8 +16,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/rc"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/rc"
 )
 
 func TestConflictsDefault(t *testing.T) {

@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 const (

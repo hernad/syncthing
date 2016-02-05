@@ -19,9 +19,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 var device1, device2 protocol.DeviceID

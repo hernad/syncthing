@@ -9,7 +9,7 @@ package stats
 import (
 	"time"
 
-	"github.com/syncthing/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/db"
 )
 
 type DeviceStatistics struct {

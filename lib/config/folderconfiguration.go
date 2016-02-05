@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 type FolderConfiguration struct {

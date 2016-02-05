@@ -10,7 +10,7 @@ import (
 	"crypto/tls"
 	"net"
 
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 type IntermediateConnection struct {

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/logger"
+	"github.com/hernad/syncthing/lib/logger"
 )
 
 const (

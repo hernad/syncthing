@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/auto"
+	"github.com/hernad/syncthing/lib/auto"
 )
 
 func TestAssets(t *testing.T) {

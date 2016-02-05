@@ -16,13 +16,13 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/discover"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/model"
-	"github.com/syncthing/syncthing/lib/protocol"
-	"github.com/syncthing/syncthing/lib/relay"
-	"github.com/syncthing/syncthing/lib/relay/client"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/discover"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/model"
+	"github.com/hernad/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/relay"
+	"github.com/hernad/syncthing/lib/relay/client"
 
 	"github.com/thejerf/suture"
 )

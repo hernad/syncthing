@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Modified by Zillode to fix https://github.com/syncthing/syncthing/issues/1822
+// Modified by Zillode to fix https://github.com/hernad/syncthing/issues/1822
 // Sync with https://github.com/golang/go/blob/master/src/os/path.go
 // See https://github.com/golang/go/issues/10900
 

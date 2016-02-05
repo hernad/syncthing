@@ -16,9 +16,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/beacon"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/beacon"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/protocol"
 	"github.com/thejerf/suture"
 )
 
