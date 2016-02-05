@@ -10,10 +10,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/db"
-	"github.com/syncthing/syncthing/lib/model"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/db"
+	"github.com/hernad/syncthing/lib/model"
+	"github.com/hernad/syncthing/lib/protocol"
 )
 
 func TestFolderErrors(t *testing.T) {

@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/events"
-	"github.com/syncthing/syncthing/lib/sync"
-	"github.com/syncthing/syncthing/lib/upnp"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/upnp"
 )
 
 // The UPnP service runs a loop for discovery of IGDs (Internet Gateway

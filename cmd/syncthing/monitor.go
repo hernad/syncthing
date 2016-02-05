@@ -17,8 +17,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 var (
@@ -186,7 +186,7 @@ func copyStderr(stderr io.Reader, dst io.Writer) {
 				}
 
 				l.Warnf("Panic detected, writing to \"%s\"", panicFd.Name())
-				l.Warnln("Please check for existing issues with similar panic message at https://github.com/syncthing/syncthing/issues/")
+				l.Warnln("Please check for existing issues with similar panic message at https://github.com/hernad/syncthing/issues/")
 				l.Warnln("If no issue with similar panic message exists, please create a new issue with the panic log attached")
 
 				stdoutMut.Lock()

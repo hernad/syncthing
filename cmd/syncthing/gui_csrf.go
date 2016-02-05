@@ -13,9 +13,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/osutil"
-	"github.com/syncthing/syncthing/lib/sync"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/sync"
 )
 
 // csrfTokens is a list of valid tokens. It is sorted so that the most

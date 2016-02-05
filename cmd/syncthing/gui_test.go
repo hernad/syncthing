@@ -9,8 +9,8 @@ package main
 import (
 	"testing"
 
-	"github.com/syncthing/syncthing/lib/config"
-	"github.com/syncthing/syncthing/lib/protocol"
+	"github.com/hernad/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/protocol"
 	"github.com/thejerf/suture"
 )
 

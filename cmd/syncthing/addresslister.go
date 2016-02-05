@@ -11,7 +11,7 @@ import (
 	"net"
 	"net/url"
 
-	"github.com/syncthing/syncthing/lib/config"
+	"github.com/hernad/syncthing/lib/config"
 )
 
 type addressLister struct {

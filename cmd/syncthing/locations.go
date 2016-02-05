@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/syncthing/syncthing/lib/osutil"
+	"github.com/hernad/syncthing/lib/osutil"
 )
 
 type locationEnum string

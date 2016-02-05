@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/syncthing/syncthing/lib/events"
+	"github.com/hernad/syncthing/lib/events"
 )
 
 // The verbose logging service subscribes to events and prints these in
